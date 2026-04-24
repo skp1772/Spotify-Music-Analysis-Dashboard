@@ -36,18 +36,18 @@ To explore what factors influence song popularity and identify patterns across g
 
 **📈 Key Insights**
 
-• High-frequency artists ≠ highest popularity
+- High-frequency artists ≠ highest popularity
 
-• Some artists achieve high impact with fewer songs
+- Some artists achieve high impact with fewer songs
 
-• Popularity builds over time
+- Popularity builds over time
 
-• Older songs benefit from accumulated exposure
+- Older songs benefit from accumulated exposure
 
-• Popularity is highly skewed
+- Popularity is highly skewed
 
-• Playlist inclusion is the strongest driver
+- Playlist inclusion is the strongest driver
 
-• Streams and charts significantly influence performance
+- Streams and charts significantly influence performance
 
-• Audio features have limited impact 
+- Audio features have limited impact 
