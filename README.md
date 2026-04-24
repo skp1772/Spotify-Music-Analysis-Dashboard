@@ -56,6 +56,9 @@ To explore what factors influence song popularity and identify patterns across g
 **Dashboard Preview**
 
 ![Dashboard](images/dashboard_prev 1.png)
+
 ![Dashboard](images/dashboard_prev 2.png)
+
 ![Dashboard](images/dashboard_prev 3.png)
+
 ![Dashboard](images/dashboard_prev 4.png)
