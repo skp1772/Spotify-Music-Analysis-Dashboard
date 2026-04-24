@@ -14,23 +14,23 @@ To explore what factors influence song popularity and identify patterns across g
 
 **🛠️ Tools & Technologies**
 
-Python (Pandas, NumPy)
+- Python (Pandas, NumPy)
 
-Power BI
+- Power BI
 
-Data Cleaning & EDA
+- Data Cleaning & EDA
 
 
 
 **⚙️ Process**
 
-Cleaned, preprocessed and merged raw Spotify dataset using Python
+- Cleaned, preprocessed and merged raw Spotify dataset using Python
 
-Handled missing values and standardized features
+- Handled missing values and standardized features
 
-Performed exploratory data analysis
+- Performed exploratory data analysis
 
-Built an interactive Power BI dashboard
+- Built an interactive Power BI dashboard
 
 
 
